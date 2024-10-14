@@ -28,8 +28,8 @@ Original images:
 - ![Original Image 2](img/lllll.ppm)
 
 Processed samples:
-- ![Processed Sample 1](salida_p1.ppm)
-- ![Processed Sample 2](salida_p2.ppm)
+- ![Processed Sample 1](img/salida_p1.ppm)
+- ![Processed Sample 2](img/salida_p2.ppm)
 
 ## Dataset
 
