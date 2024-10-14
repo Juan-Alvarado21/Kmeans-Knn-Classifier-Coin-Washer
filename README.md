@@ -8,8 +8,11 @@ This project, **Knn Classifier and Edge Recognition-Based Segmentation Using K-m
 - **K-means clustering** for image segmentation
 - **Sobel filters** for edge detection
 - **Hu moments** for shape analysis
+- **BMP format**: The algorithm uses **BMP** format for input and output images
+
 
 By integrating these methods, the algorithm effectively distinguishes between geometrically similar objects, providing a solution for challenges commonly encountered in industrial sorting systems that require precise object recognition.
+
 
 ## Key Features
 
@@ -21,15 +24,12 @@ By integrating these methods, the algorithm effectively distinguishes between ge
 
 ## Images
 
-Here are some sample images used in the project:
-
-Original images:
-- ![Original Image 1](img/116.ppm)
-- ![Original Image 2](img/lllll.ppm)
+Here are some segmented sample images in the project:
 
 Processed samples:
-- ![Processed Sample 1](img/salida_p1.ppm)
-- ![Processed Sample 2](img/salida_p2.ppm)
+- ![Processed Sample 1](img/salida7.png)
+- ![Processed Sample 2](img/salida_p11.png)
+- - ![Processed Sample 2](img/salida_p2.png)
 
 ## Dataset
 
