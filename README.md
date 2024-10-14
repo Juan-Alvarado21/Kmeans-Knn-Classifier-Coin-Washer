@@ -27,9 +27,8 @@ By integrating these methods, the algorithm effectively distinguishes between ge
 Here are some segmented sample images in the project:
 
 Processed samples:
-- ![Processed Sample 1](img/salida7.png)
-- ![Processed Sample 2](img/salida_p11.png)
-- - ![Processed Sample 2](img/salida_p2.png)
+![Processed Sample 1](img/salida7.png)                       ![Processed Sample 2](img/salida_p11.png)
+![Processed Sample 2](img/salida_p2.png)
 
 ## Dataset
 
