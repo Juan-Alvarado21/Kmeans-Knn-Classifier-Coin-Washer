@@ -24,14 +24,13 @@ By integrating these methods, the algorithm effectively distinguishes between ge
 Here are some sample images used in the project:
 
 Original images:
-![Original Image 1](img/116.ppm)
-![Original Image 2](img/lllll.ppm)
+- ![Original Image 1](img/116.ppm)
+- ![Original Image 2](img/lllll.ppm)
 
 Processed samples:
-![Processed Sample 1](img/salida_p1.ppm)
-![Processed Sample 2](img/salida_p2.ppm)
+- ![Processed Sample 1](img/salida_p1.ppm)
+- ![Processed Sample 2](img/salida_p2.ppm)
 
 ## Dataset
 
-Please note that the dataset used in this project is **not included** in the repository because it is too large to be hosted here. If you'd like to experiment with the project, please prepare your own dataset or contact the author for more details on how to access the original dataset.
-
+Please note that the dataset used in this project is **not included** in the repository because it is too large to be hosted here. 
