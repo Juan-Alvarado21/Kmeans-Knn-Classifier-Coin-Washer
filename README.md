@@ -11,8 +11,6 @@ This project, **Knn Classifier and Edge Recognition-Based Segmentation Using K-m
 - **BMP format**: The algorithm uses **BMP** format for input and output images
 
 
-By integrating these methods, the algorithm effectively distinguishes between geometrically similar objects, providing a solution for challenges commonly encountered in industrial sorting systems that require precise object recognition.
-
 
 ## Key Features
 
